@@ -1,0 +1,64 @@
+TEST CASE 1
+Input:
+Name = Priya
+Marks = 95
+
+Expected Output:
+Grade = A
+Message = Excellent Work!
+
+
+TEST CASE 2
+Input:
+Name = Rahul
+Marks = 82
+
+Expected Output:
+Grade = B
+Message = Very Good! Keep it up!
+
+
+TEST CASE 3
+Input:
+Name = Aman
+Marks = 74
+
+Expected Output:
+Grade = C
+Message = Good Job!
+
+
+TEST CASE 4
+Input:
+Name = Riya
+Marks = 65
+
+Expected Output:
+Grade = D
+Message = Keep Practicing!
+
+
+TEST CASE 5
+Input:
+Name = Karan
+Marks = 40
+
+Expected Output:
+Grade = F
+Message = Don't Give Up!
+
+
+TEST CASE 6
+Input:
+Marks = 120
+
+Expected Output:
+Enter marks between 0 and 100
+
+
+TEST CASE 7
+Input:
+Marks = abc
+
+Expected Output:
+Invalid input! Enter numbers only
