@@ -1,0 +1,15 @@
+CAPSTONE PROJECT RESULTS
+
+Customer Churn Rate: 10.60%
+Customer Monthly Charges CI: (np.float64(109.0845823710515), np.float64(118.1874176289485))
+T-Test Charges p-value: 0.010079197699533072
+T-Test Tenure p-value: 8.982326405691589e-130
+Customer Regression R2: 0.0018
+
+Total Revenue: 12365048
+Best Product: Laptop
+Best Region: North
+Sales Revenue CI: (np.float64(103776.3476708068), np.float64(143524.6123291932))
+
+House Price CI: (np.float64(23444651.43878625), np.float64(26322665.227880415))
+House Regression R2: 0.6798
