@@ -1,0 +1,3 @@
+T-Test p-value: 0.8971521399586031
+One Sample p-value: 1.0
+ANOVA p-value: 0.09723678084979993
